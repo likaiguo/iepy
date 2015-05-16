@@ -1,4 +1,4 @@
-IEPY(一款聚焦在关系抽取的开源的息抽取工具)
+IEPY(开源的聚焦在关系抽取的信息抽取工具,python实现)
 ====
 
 IEPY is an open source tool for
