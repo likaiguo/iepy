@@ -20,9 +20,11 @@ It's aimed at:
       needing to perform Information Extraction on a large dataset.
     - `scientists <http://iepy.readthedocs.org/en/latest/how_to_hack.html>`_
       wanting to experiment with new IE algorithms.
-------------------------
+
+尝试使用      
+--------
 花了大量时间研究其文档,最终运行成功这个工具.
-要尝试该工具使用,直接进入demo文件夹.
+要尝试该工具使用,直接进入demo文件夹,登录账号: likaiguo  密码: 123456
 .. code-block:: bash
 
     python3.4 manage.py runserver
