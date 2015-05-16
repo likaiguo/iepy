@@ -1,0 +1,11 @@
+document_id,document_text
+4,You do this by setting the rule as a negative rule using the decorator. Also is recommended to set higher priority so it is checked before the other ones
+5,On your project’s instance folder, there should be a rules.py file. All rules should be place there along with a RELATION variable that sets which relation is going to be used.
+6,During the construction of your rules, you might want to check whether if the rules are matching or if they aren’t. Even more, if you have tagged data in your corpus, you can know how good is the performance.
+7,If you prefer to review the predictions using the web interface is possible to run the active learning core in a way that stores the results on the database and they are accesible through the web.
+8,We do not have an specialized interface to review predictions but you can still view them by using the interface to create a reference corpus
+9,The features in the sparse section will go through a stage of linear dimension reduction and the dense features, by default, will be used with a non-linear classifier.
+10,"Carl Bridgewater (January 2, 1965 - September 19, 1978) was shot dead"                                                              
+11,"Gary Sykes (Born 13 February 1984) is a British super featherweight boxer"
+12,"Gary Sykes (Born 13 February 1984) is a British super featherweight boxer"
+13,"Harry Pilling, born Ashtonunder-Lyne, Lancashire on 2 February 1943, played"
