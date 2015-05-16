@@ -25,6 +25,7 @@ It's aimed at:
 --------
 花了大量时间研究其文档,最终运行成功这个工具.
 要尝试该工具使用,直接进入demo文件夹,登录账号: likaiguo  密码: 123456
+
 .. code-block:: bash
 
     python3.4 manage.py runserver
